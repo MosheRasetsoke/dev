@@ -1,0 +1,15 @@
+{
+  "name": "trafficsignbot",
+  "version": "1.0.0",
+  "description": "Share and Educate about Traffic Signs",
+  "main": "trafficbot.js",
+  "scripts": {
+    "test": "console.log(\"Test Test\");"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "filestream": "^4.1.3",
+    "twit": "^2.2.9"
+  }
+}
